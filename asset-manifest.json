@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Whitelist-Dapp/static/css/main.a8a65a43.css",
+    "main.js": "/Whitelist-Dapp/static/js/main.06e56718.js",
+    "static/js/787.c1112931.chunk.js": "/Whitelist-Dapp/static/js/787.c1112931.chunk.js",
+    "index.html": "/Whitelist-Dapp/index.html",
+    "main.a8a65a43.css.map": "/Whitelist-Dapp/static/css/main.a8a65a43.css.map",
+    "main.06e56718.js.map": "/Whitelist-Dapp/static/js/main.06e56718.js.map",
+    "787.c1112931.chunk.js.map": "/Whitelist-Dapp/static/js/787.c1112931.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a8a65a43.css",
+    "static/js/main.06e56718.js"
+  ]
+}
